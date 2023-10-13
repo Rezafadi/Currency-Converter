@@ -1,4 +1,3 @@
-import React from "react";
 import CurrencyConverter from "./CurrencyConverter";
 import "./App.css";
 
